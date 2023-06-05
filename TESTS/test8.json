@@ -1,0 +1,66 @@
+{
+  "ordre": "géologues",
+  "numero_de_permis": "A0001",
+  "cycle": "a",
+  "activites": [
+    {
+      "description": "1111",
+      "categorie": "1111",
+      "heures": a,
+      "date": "a"
+    },
+    {
+      "description": "1111",
+      "categorie": "1111",
+      "heures": a,
+      "date": "a"
+    },
+    {
+      "description": "1111",
+      "categorie": "1111",
+      "heures": a,
+      "date": "a"
+    },
+    {
+      "description": "1111",
+      "categorie": "1111",
+      "heures": a,
+      "date": "a"
+    },
+    {"description": "1111",
+      "categorie": "1111",
+      "heures": a,
+      "date": "a"
+    },
+    {
+      "description": "1111",
+      "categorie": "1111",
+      "heures": a,
+      "date": "a"
+    },
+    {
+      "description": "1111",
+      "categorie": "1111",
+      "heures": a,
+      "date": "a"
+    },
+    {
+      "description": "1111",
+      "categorie": "1111",
+      "heures": a,
+      "date": "a"
+    },
+    {
+      "description": "1111",
+      "categorie": "1111",
+      "heures": a,
+      "date": "a"
+    },
+    {
+      "description": "1111",
+      "categorie": "1111",
+      "heures": a,
+      "date": "a"
+    }
+  ]
+}

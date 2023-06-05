@@ -1,0 +1,67 @@
+{
+  "ordre": "géologues",
+  "numero_de_permis": "A0001",
+  "cycle": "2017-2020",
+  "activites": [
+    {
+      "description": "Cours de skidoo en plein air.",
+      "categorie": "cour",
+      "heures": 3,
+      "date": "2019-03-20"
+    },
+    {
+      "description": "Atelier sur l'architecture contemporaine",
+      "categorie": "atelié",
+      "heures": 4,
+      "date": "2019-01-07"
+    },
+    {
+      "description": "Seminaire le magazine Architecture moderne",
+      "categorie": "semineire",
+      "heures": 2,
+      "date": "2019-10-22"
+    },
+    {
+      "description": "Colloque sur le partage des projets architecturaux de plus de 20 ans",
+      "categorie": "coloc",
+      "heures": 4,
+      "date": "2018-04-01"
+    },
+    {
+      "description": "Ne rien changer dans ce bloc, il est valide on test la categorie seulement",
+      "categorie": "conférance",
+      "heures": 2,
+      "date": "2019-10-22"
+    },
+    {
+      "description":  "Ne rien changer dans ce bloc, il est valide on test la categorie seulement et heures",
+      "categorie": "lecture diriger",
+      "heures": 4,
+      "date": "2018-04-22"
+    },
+    {
+      "description": "Ne rien changer dans ce bloc, il est valide on test la categorie seulement et heures",
+      "categorie": "présantation",
+      "heures": 1,
+      "date": "2019-10-22"
+    },
+    {
+      "description": "Ne rien changer dans ce bloc, il est valide on test la categorie seulement et heures",
+      "categorie": "groupe de discucion",
+      "heures": 1,
+      "date": "2019-10-22"
+    },
+    {
+      "description": "Ne rien changer dans ce bloc, il est valide on test la categorie seulement et heures",
+      "categorie": "Projet de recherche",
+      "heures": 1,
+      "date": "2019-10-22"
+    },
+    {
+      "description": "Ne rien changer dans ce bloc, il est valide on test la categorie seulement et heures",
+      "categorie": "Redaction professionnelle",
+      "heures": 1,
+      "date": "2019-10-22"
+    }
+  ]
+}

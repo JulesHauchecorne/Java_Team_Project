@@ -1,0 +1,31 @@
+{
+  "ordre": "géologues",
+  "numero_de_permis": "&&&",
+  "cycle": "&&&",
+  "activites": [
+    {
+      "description": "?&?&",
+      "categorie": "%??",
+      "heures": "!#?",
+      "date": ")(?&"
+    },
+    {
+      "description": "*&?&%?#%#%$?",
+      "categorie": "!@#$%?&*()",
+      "heures": "(*&?",
+      "date": "!@#"
+    },
+    { "description": "?&?&",
+      "categorie": "%??",
+      "heures": "!#?",
+      "date": ")(?&"
+    },
+    {
+      "description": "*&?&%?#%#%$?",
+      "categorie": "!@#$%?&*()",
+      "heures": "(*&?",
+      "date": "!@#"
+    }
+  ]
+}
+

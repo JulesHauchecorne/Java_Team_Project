@@ -1,0 +1,37 @@
+{
+  "ordre": "psychologues",
+  "numero_de_permis": "A0001",
+  "cycle": "2016-2021",
+  "activites": [
+    {
+      "description": "Cours sur la déontologie",
+      "categorie": "cours",
+      "heures": 24,
+      "date": "2019-03-20"
+    },
+    {
+      "description": "Séminaire sur l'architecture contemporaine",
+      "categorie": "séminaire",
+      "heures": 15,
+      "date": "2019-01-07"
+    },
+    {
+      "description": "Rédaction pour le magazine Architecture moderne",
+      "categorie": "rédaction professionnelle",
+      "heures": 42,
+      "date": "2019-10-22"
+    },
+    {
+      "description": "Participation à un groupe de discussion sur le partage des projets architecturaux de plus de 20 ans",
+      "categorie": "groupe de discussion",
+      "heures": 29,
+      "date": "2019-04-01"
+    },
+    {
+      "description": "Visite d'établissements architecturaux",
+      "categorie": "voyage",
+      "heures": 9,
+      "date": "2019-02-02"
+    }
+  ]
+}

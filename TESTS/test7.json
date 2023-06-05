@@ -1,0 +1,68 @@
+{
+  "ordre": "architectes",
+  "numero_de_permis": "A0001",
+  "cycle": "2018-2020",
+  "heures_transferees_du_cycle_precedent": -1,
+  "activites": [
+    {
+      "description": "Cours de skidoo en plein air.",
+      "categorie": "cours",
+      "heures": -1,
+      "date": "2019-03-20"
+    },
+    {
+      "description": "Atelier sur l'architecture contemporaine",
+      "categorie": "atelier",
+      "heures": -1,
+      "date": "2019-01-07"
+    },
+    {
+      "description": "Seminaire le magazine Architecture moderne",
+      "categorie": "séminaire",
+      "heures": -1,
+      "date": "2019-10-22"
+    },
+    {
+      "description": "Colloque sur le partage des projets architecturaux de plus de 20 ans",
+      "categorie": "colloque",
+      "heures": -1,
+      "date": "2018-04-01"
+    },
+    {
+      "description": "Ne rien changer dans ce bloc, il est valide on test la categorie seulement",
+      "categorie": "conférence",
+      "heures": -1,
+      "date": "2019-10-22"
+    },
+    {
+      "description":  "Ne rien changer dans ce bloc, il est valide on test la categorie seulement et heures",
+      "categorie": "lecture dirigée",
+      "heures": -1,
+      "date": "2018-04-22"
+    },
+    {
+      "description": "Ne rien changer dans ce bloc, il est valide on test la categorie seulement et heures",
+      "categorie": "présentation",
+      "heures": -1,
+      "date": "2019-10-22"
+    },
+    {
+      "description": "Ne rien changer dans ce bloc, il est valide on test la categorie seulement et heures",
+      "categorie": "groupe de discussion",
+      "heures": -1,
+      "date": "2019-10-22"
+    },
+    {
+      "description": "Ne rien changer dans ce bloc, il est valide on test la categorie seulement et heures",
+      "categorie": "projet de recherche",
+      "heures": -1,
+      "date": "2019-10-22"
+    },
+    {
+      "description": "Ne rien changer dans ce bloc, il est valide on test la categorie seulement et heures",
+      "categorie": "rédaction professionnelle",
+      "heures": -1,
+      "date": "2019-10-22"
+    }
+  ]
+}

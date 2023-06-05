@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: validationFormationTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.242 sec <<< FAILURE!
+validationFormationTest.testheureCYclePrecedentVraiAutreOrdreFaux()  Time elapsed: 0.011 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <false> but was: <true>
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertFalse.assertFalse(AssertFalse.java:40)
+	at org.junit.jupiter.api.AssertFalse.assertFalse(AssertFalse.java:35)
+	at org.junit.jupiter.api.Assertions.assertFalse(Assertions.java:210)
+	at validationFormationTest.testheureCYclePrecedentVraiAutreOrdreFaux(validationFormationTest.java:113)
+

@@ -1,0 +1,67 @@
+{
+  "ordre": "géologues",
+  "numero_de_permis": "A0001",
+  "cycle": "2019-2020",
+  "activites": [
+    {
+      "description": "Cours de skidoo en plein air.",
+      "categorie": "cours",
+      "heures": 20,
+      "date": "20-03-2019"
+    },
+    {
+      "description": "Atelier sur l'architecture contemporaine",
+      "categorie": "atelier",
+      "heures": 20,
+      "date": "20 03 2019"
+    },
+    {
+      "description": "Seminaire le magazine Architecture moderne",
+      "categorie": "seminaire",
+      "heures": 20,
+      "date": "12 31 2018"
+    },
+    {
+      "description": "Colloque sur le partage des projets architecturaux de plus de 20 ans",
+      "categorie": "colloque",
+      "heures": 20,
+      "date": "19-04-30"
+    },
+    {
+      "description": "Ne rien changer dans ce bloc, il est valide on test la categorie seulement",
+      "categorie": "conférence",
+      "heures": 20,
+      "date": "22/10/2018"
+    },
+    {
+      "description":  "Ne rien changer dans ce bloc, il est valide on test la categorie seulement et heures",
+      "categorie": "lecture dirigée",
+      "heures": 20,
+      "date": "31-01-2020"
+    },
+    {
+      "description": "Ne rien changer dans ce bloc, il est valide on test la categorie seulement et heures",
+      "categorie": "presentation",
+      "heures": 23,
+      "date": "2020/03/26"
+    },
+    {
+      "description": "Ne rien changer dans ce bloc, il est valide on test la categorie seulement et heures",
+      "categorie": "groupe de discussion",
+      "heures": 17,
+      "date": "2019-10-22"
+    },
+    {
+      "description": "Ne rien changer dans ce bloc, il est valide on test la categorie seulement et heures",
+      "categorie": "projet de recherche",
+      "heures": 23,
+      "date": "2019-10-22"
+    },
+    {
+      "description": "Ne rien changer dans ce bloc, il est valide on test la categorie seulement et heures",
+      "categorie": "redaction professionnelle",
+      "heures": 17,
+      "date": "2019-10-22"
+    }
+  ]
+}
